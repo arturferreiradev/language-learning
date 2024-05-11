@@ -4,6 +4,8 @@ Welcome to the Simple Language Learning Chatbot! 🌍
 
 This chatbot is your ultimate language teacher, capable of simplifying any language for you. Whether you're a beginner or looking to brush up on your skills, this bot is here to guide you through the process.
 
+![Chatbot](./assets/ia-robot.jpeg)
+
 ## How to Use:
 
 1. **Start by greeting the bot:** 
