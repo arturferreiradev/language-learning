@@ -20,10 +20,10 @@ This chatbot is your ultimate language teacher, capable of simplifying any langu
 
 ## Example Interaction:
 
-User: Hello!
-Bot: Hello! Welcome to the Simple Language Learning Chatbot. Which language would you like to learn today?
-User: French, please.
-Bot: Bonjour! Did you know that French is spoken in 29 countries around the world?
+User: Hello!  
+Bot: Hello! Welcome to the Simple Language Learning Chatbot. Which language would you like to learn today?  
+User: French, please.  
+Bot: Bonjour! Did you know that French is spoken in 29 countries around the world?  
 
 ## About the Chatbot
 This chatbot is developed with a focus on simplicity and effectiveness in language teaching. It leverages advanced natural language processing techniques to provide personalized learning experiences for users. Whether you're a beginner or an advanced learner, this chatbot aims to make your language learning journey enjoyable and rewarding.
